@@ -1,6 +1,6 @@
 # DragonsRCool Language Guide
 ### Guide Author: [Noah Little](https://github.com/NoahLittle2001)
-### Project Authors: [Noah Little](https://github.com/NoahLittle2001), [Jacob Thieret](https://github.com/duhBlu), [John Stout](https://github.com/JaqStoot), Justin Kehoe, [Jacob Hall](https://github.com/jacetheace74)
+### Project Authors: [Noah Little](https://github.com/NoahLittle2001), [Jacob Thieret](https://github.com/duhBlu), [John Stout](https://github.com/JaqStoot), [Justin Kehoe](https://github.com/JustinKehoe), [Jacob Hall](https://github.com/jacetheace74)
 
 _______________________________________________________________________________________________________________________________________________________________________
 Functions which are called Program:
